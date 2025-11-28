@@ -8,6 +8,7 @@ API_BASE_URL = os.getenv("API_BASE_URL")
 LATITUDE = os.getenv("LATITUDE")
 LONGITUDE = os.getenv("LONGITUDE")
 HOURLY_FIELDS = os.getenv("HOURLY_FIELDS")
+FORECAST_DAYS = os.getenv("FORECAST_DAYS")
 
 
 ## DB CONFIG
